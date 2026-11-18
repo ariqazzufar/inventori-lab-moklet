@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302363436655",
+    "project_id": "uuk-projects3",
+    "storage_bucket": "uuk-projects3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302363436655:android:f8b8e716d62ac4b8030f9a",
+        "android_client_info": {
+          "package_name": "com.example.uuk_s3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcDNt_3W3zHF4-ihaBVi2E9Qv11i2Ij_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
